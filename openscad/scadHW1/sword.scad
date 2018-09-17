@@ -1,4 +1,4 @@
-quality = 20;
+quality = 100;
 
 sphere(6,20,$fn=quality);
 translate([0,0,-8]){
