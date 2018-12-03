@@ -7,4 +7,10 @@ Cube homework pushed to computergraphicsfall2018/threejs/cubeHW/
 OpenSCAD homework - made a 3d sword with geometric shapes
 pushed to computergraphicsfall2018/openscad/swordHW
 
+#12/3/2018
+Link to final project video:
+https://www.youtube.com/watch?v=EqEwpU6_1fE
+
+final project repository link:
+https://github.com/eyeeatglass/ComputerGraphicsProject
 
